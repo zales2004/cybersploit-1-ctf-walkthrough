@@ -170,3 +170,18 @@ Do not use these techniques against systems without explicit authorization.
 **Alen**
 
 Cybersecurity | CTFs | SOC | Penetration Testing | Linux
+
+
+---
+
+## Portfolio navigation
+
+This repository is part of my hands-on cybersecurity learning portfolio by **Alen Sales K S**. I document lab work to make the methodology, evidence, limitations, and lessons learned easier to review.
+
+- [Cybersploit 2 CTF Walkthrough](https://github.com/zales2004/cybersploit-2-ctf-walkthrough)
+- [Metasploitable 2 Lab](https://github.com/zales2004/metasploitable-2-ctf-walkthrough)
+- [Sunset: Noontide](https://github.com/zales2004/sunset-noontide-pentesting)
+
+## Scope and responsible use
+
+All security testing described here is for authorized training environments, intentionally vulnerable targets, or systems I own or have permission to assess. Findings should be interpreted in the context of the documented lab and supporting evidence; they should not be treated as proof of compromise on unrelated real-world systems.
